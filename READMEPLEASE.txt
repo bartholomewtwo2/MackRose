@@ -11,9 +11,9 @@ Box 1: "Left Click", "Middle Click", "Right Click" | This controls what mouse bu
 Box 2: "No holding", "Hold for..", "Hold forever"  | Behavior on what the program will do after it clicks. 
 Hold Time: How long the auto clicker will hold each click for. THIS ONLY APPLIES IF THE OPTION "HOLD FOR.." IS SELECTED. Otherwise, the text entries will be grayed out as it won´t affect anything
 
-Random Click Offset: Will add a random positive or negative integer in the range of this number TO Offset. (Example: Offset = 100 milliseconds, Random Offset = 20 | This results in every click having a random number from -20 to 20 added to Offset. This setting allows for variation in the program so it is harder to detect auto clicking)
+Random Click Offset: Will add a random positive or negative integer in the range of this number TO Click Offset. (Example: Offset = 100 milliseconds, Random Offset = 20 | This results in every click having a random number from -20 to 20 added to Click Offset. This setting allows for variation in the program so it is harder to detect auto clicking)
 
-Random Hold Time: Works the same way as Random Click Offset but applies to delay.  Will add a random integer in the range of this number TO Hold Time. (Example : Hold Time = 50, Random Hold Time = 10 | This results in every click having a random number from -10 to 10 added to Hold Time. This adds variation, making auto clicking harder to detect.”)
+Random Hold Time: Works the same way as Random Click Offset but applies to delay. Will add a random integer in the range of this number TO Hold Time. (Example : Hold Time = 50, Random Hold Time = 10 | This results in every click having a random number from -10 to 10 added to Hold Time. This adds variation, making auto clicking harder to detect.”)
 
 
 
@@ -35,5 +35,6 @@ Key Hold Time box: "No holding", "Hold for..", "Hold forever" | Behavior on what
 Key Hold Time: How long each key is pressed for. WILL ONLY MATTER IF THE OPTION "HOLD FOR.." IS SELECTED. Otherwise, both text entries will be grayed out and won't affect anything.
 
 Random Key Offset: Will add a random positive or negative integer in the range of this number TO Key Offset. (Example: Key Offset = 100 milliseconds, Random Key Offset = 20 | This results in every key press having a random number from -20 to 20 added to Key Offset. This setting allows for variation the program so it is harder to detect auto key pressing)
+
 
 Random Key Hold Time: Same thing as Random Key Offset but for delay. Will add a random integer in the range of this number TO Key Hold Time. (Example: Key Hold Time = 50, Random Key Hold Time = 10 | This results in every click having a random number from -10 to 10 added to Key Hold Time. This setting allows for variation the program so it is harder to detect auto key pressing)
