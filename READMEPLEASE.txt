@@ -1,4 +1,6 @@
 READMEPLEASE
+Confirmed to work on windows. Not tested on MacOS or Linux.
+
 
 Guide on how to use the program. Use Ctrl + F to find a specific section.
 
@@ -38,3 +40,4 @@ Random Key Offset: Will add a random positive or negative integer in the range o
 
 
 Random Key Hold Time: Same thing as Random Key Offset but for delay. Will add a random integer in the range of this number TO Key Hold Time. (Example: Key Hold Time = 50, Random Key Hold Time = 10 | This results in every click having a random number from -10 to 10 added to Key Hold Time. This setting allows for variation the program so it is harder to detect auto key pressing)
+
